@@ -1,0 +1,17 @@
+# 核心框架
+qiling>=1.4.5
+
+# 图像处理
+Pillow>=10.0.0
+cairosvg>=2.7.0
+
+# 网络功能
+dnspython>=2.4.0
+netifaces>=0.11.0
+
+# 系统信息（可选，但推荐）
+psutil>=5.9.0
+
+# 基础依赖（qiling 的依赖会自动安装，但明确写出也没问题）
+unicorn>=2.0.0
+capstone>=5.0.0
