@@ -1,4 +1,5 @@
-
+#Copyright (c) 2026 yaoyaomenke
+#SPDX-License-Identifier: MIT
 
 import sys
 import os
